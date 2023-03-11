@@ -1,2 +1,5 @@
-package Spring.introduction;public interface Pet {
+package Spring.introduction;
+
+public interface Pet {
+    public void say();
 }
