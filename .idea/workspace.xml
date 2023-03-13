@@ -5,20 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="58c73e10-650a-4d4a-8ca5-2ac453b54d25" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/Car.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/mazda.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/test1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/test2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/toyota.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/application.Context.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/test3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Spring/introduction/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Spring/introduction/Dog.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/Dog.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Spring/introduction/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/Pet.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Spring/introduction/test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/slodkipan/spring/app/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/slodkipan/spring/app/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Spring/introduction/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Spring/introduction/mazda.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/mazda.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Spring/introduction/test1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/test1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Spring/introduction/test2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Spring/introduction/test2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.Context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.Context.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -73,11 +66,12 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
     "spring.configuration.checksum": "e5ef67137dbd773754a772dba8e845fc",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.test2">
+  <component name="RunManager" selected="Application.test1">
     <configuration name="test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Spring.introduction.test" />
       <module name="spring-apps" />
@@ -117,10 +111,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="test3" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Spring.introduction.test3" />
+      <module name="spring-apps" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Spring.introduction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.test2" />
         <item itemvalue="Application.test1" />
+        <item itemvalue="Application.test3" />
+        <item itemvalue="Application.test2" />
         <item itemvalue="Application.test" />
       </list>
     </recent_temporary>
@@ -137,6 +145,7 @@
       <workItem from="1678253412482" duration="5270000" />
       <workItem from="1678493717176" duration="7000" />
       <workItem from="1678525573440" duration="195000" />
+      <workItem from="1678711203443" duration="5171000" />
     </task>
     <servers />
   </component>
